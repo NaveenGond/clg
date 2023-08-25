@@ -1,0 +1,27 @@
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(209, 118, 161);
+    height: 50px;
+}
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.f{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+.b{
+    background-color: yellow;
+    font-size: 20px;
+}
+.v{
+    width: 50px;
+}
+.j{
+    width: 100%;
+}
